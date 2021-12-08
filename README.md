@@ -2,7 +2,7 @@
 
 > A simple layout project using CSS Grid
 
-![screenshot](./app_screenshot.png)
+![screenshot](src/screenshot/Untitled.png)
 
 ## Built With
 
