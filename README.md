@@ -15,7 +15,7 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@JohnDMurphy](https://github.com/JohnDMurphy)
 
